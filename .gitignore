@@ -1,2 +1,6 @@
 keys
 keys.pub
+*.db
+*.log
+/target
+/bin
